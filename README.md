@@ -6,7 +6,7 @@ Artificial Intelligence Competition My Solved Complete Project
 ### Gmail : drbilal216@gmail.com
 ### My Competition Id : EVENT-224445
 
-### Depedies
+### Dependencies
 #### anaconda prompt
 #### pip install tensorflow
 #### pip install streamlit
